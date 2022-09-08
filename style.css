@@ -1,0 +1,67 @@
+  h1{
+        text-align: center;
+        color: maroon;
+        font-size: 50px;
+    }
+    .btn-secondary{
+            display: block;
+            margin-top: 44em;
+            position: absolute;
+            margin-right: 1em;
+            border-radius: 17px;
+            background-color: transparent;
+            border: solid 2px maroon;
+            color: black;
+            text-align: center;
+            padding: 23px;
+            text-decoration: none;
+            font-size: 16px;
+            display: inline;
+    }
+    .btn-secondary:hover{
+        color: maroon;
+        font-weight: 800;
+        background-color: transparent;
+        border: solid 2px gold;
+    }
+    body{
+        background-image: url("https://lh3.googleusercontent.com/Kobe_6GCDgH9sglOth0v7rKfcizOf2C8zX6KSrvB09PIuUj3ONy7yHEE5IBYjaZKDCgz2c5dpLbki_H6NCTNVMs1FX072le4Ol4jDzCKoQkDUfVtvFAclRrpoA_j7kzuE66P-bpk8Q=w2400");
+    }
+    #img-1{
+        position: absolute;
+    }
+    #img-2{
+        padding-top: 350px;
+        position: absolute;
+    }
+    p{
+        margin-left: 525px;
+        font-size: 25px;
+    }
+    .button{
+            display: inline;
+            margin-top: 1em;
+            position: relative;
+            margin-right: 1em;
+            margin-left: 34em;
+            border-radius: 17px;
+            background-color: transparent;
+            border: solid 2px maroon;
+            color: black;
+            text-align: center;
+            padding: 23px;
+            text-decoration: none;
+            font-size: 16px;
+            display: inline;
+    }
+    .button:hover{
+        color: maroon;
+        font-weight: 800;
+        background-color: transparent;
+        border: solid 2px gold;
+    }
+    .generated-content{
+        color: black;
+        border: 2px solid maroon;
+        border-style: dotted;
+    }
